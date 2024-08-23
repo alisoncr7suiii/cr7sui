@@ -1,0 +1,15 @@
+body  {
+    background-color: #FF0000;
+    color: white;
+    font-family: "Baskervville SC", system-ui;;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+   background-color: #f5a742;
+   color: white;
+}
